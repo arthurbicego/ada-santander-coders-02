@@ -1,14 +1,13 @@
-# Ada - Santander Coders: Unit 01
+# Ada - Santander Coders: Unit 02
 
-### Grocery Store Project - CRUD
+### Contacts App Project
 
-This project creates a grocery store program that allows users to create, edit, delete, search for products, and make
-purchases. Product data is saved in a .txt file.
+This project is a contacts app software that allows users to create, edit, delete, search for contacts.
 
 - [Statement](#statement)
 - [Concepts](#concepts)
 
-[See the project in Development Envir[README.md](README.md)onment](https://github.dev/arthurbicego/ada01)
+[See the project in Development Envir[README.md](README.md)onment](https://github.dev/arthurbicego/ada-santander-coders-02/)
 
 ---
 
