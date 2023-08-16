@@ -2,33 +2,52 @@
 
 ### Contacts App Project
 
-This project is a contacts app software that allows users to create, edit, delete, search for contacts.
+This project is a contacts app software that allows users to create, edit, delete and search contacts.
 
 - [Statement](#statement)
 - [Concepts](#concepts)
 
-[See the project in Development Envir[README.md](README.md)onment](https://github.dev/arthurbicego/ada-santander-coders-02/)
+[See the project in Development Environment](https://github.dev/arthurbicego/ada-santander-coders-02/)
 
 ---
 
 ### Statement
 
-Create a grocery store program with the following options below. For each operation a file must be manipulated to save
-product data, so that if you exit the program, the information will persist.
+Using object-oriented concepts, create a contact app system.
+- The app must allow storing multiple contacts, containing at least first and last name information.
+- A contact can have multiple phones.
+- A contact can have multiple addresses.
+- The storage of phones must allow the inclusion of area code and number information separately.
+- The storage of addresses must allow the inclusion of zip code, address, number, city and state information separately.
+- The system should allow interaction with the user with the following actions:
 
-Note: You will only need to save the product data in a file.
+```
+- Add a contact and their data;
+- List all contacts in the phonebook;
+- Search for a contact according to a keyword (Use first name, last name data to perform the search)
+- Remove a contact from the phonebook;
+- Remove all contacts from the phonebook;
+- Add a phone to a contact;
+- Add an address to a contact;
+- Remove a phone number from a contact in the phonebook;
+- Remove an address of a contact from the phonebook;
+- View all contact information from the phonebook;
+- List all phone numbers of a contact in the phonebook;
+- List all addresses of a contact in the phonebook;
+- View all phone information of a phonebook contact;
+- View all address information for a contact in the phonebook;
+```
 
-- Create product containing the information product name, quantity and price.
-- Edit product, which takes the new information and updates the product chosen by the identifier. (To do this list the
-  products with an identifier being the position of the product).
-- Exclude product, which takes the position of the product and deletes it. (For this, list the products with an
-  identifier being the position of the product)
-- Product search. Get the name or part of it, filter all products that contain the name and show the filtered list.
-- Purchase of products, where the user can choose products and quantities as he wants, as soon as he chooses to
-  finalize, show everything he bought, the prices and the total. When he chooses the product and quantity, check if the
-  product has that quantity, if not, inform the user that it does not contain the quantity of this product in stock.
-  Once the user confirms the purchase, deduct the quantities of the selected products.
-- An exit option that closes the program if the user chooses to.
+Additional actions that can be included in the Agenda as a bonus:
+
+```
+- Display contact list with pagination. Including the option to navigate to the next or previous page;
+- View the contact's phone list with paging. Including the option to navigate to the next or previous page;
+- Display contact address list with pagination. Including the option to navigate to the next or previous page;
+- Export all contacts to a text file;
+- Import all contacts from a text file;
+- Automatically load and save all contacts to a text file. Making the agenda a 100% functional program;
+```
 
 ---
 
