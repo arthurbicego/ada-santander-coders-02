@@ -68,3 +68,59 @@ Using object-oriented concepts, create a contact app system.
 (insert code here)
   ```
 </details>
+<details>
+  <summary>Encapsulation</summary>
+
+  ```java
+(insert code here)
+  ```
+</details>
+<details>
+  <summary>Inheritance</summary>
+
+  ```java
+(insert code here)
+  ```
+</details>
+<details>
+  <summary>Polymorphism</summary>
+
+  ```java
+(insert code here)
+  ```
+</details>
+<details>
+  <summary>Class Diagram</summary>
+
+  ```java
+(insert code here)
+  ```
+</details>
+<details>
+  <summary>@Override Equals</summary>
+
+  ```java
+(insert code here)
+  ```
+</details>
+<details>
+  <summary>Constructor Overloading</summary>
+
+  ```java
+(insert code here)
+  ```
+</details>
+<details>
+  <summary>Interface</summary>
+
+  ```java
+(insert code here)
+  ```
+</details>
+<details>
+  <summary>Exception</summary>
+
+  ```java
+(insert code here)
+  ```
+</details>
